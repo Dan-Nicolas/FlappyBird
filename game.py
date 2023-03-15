@@ -296,8 +296,7 @@ def pause(func, config=None):
         unpause = STAT_FONT.render("Press p to unpause ", 1, (0, 0, 0))
         SCREEN.blit(unpause, (100, 200))
 
-        main_menu = MENU_FONT.render(
-            "Press m to return to the menu ", 1, (0, 0, 0))
+        main_menu = MENU_FONT.render("Press m to return to the menu ", 1, (0, 0, 0))
         SCREEN.blit(main_menu, (75, 300))
 
         restart = STAT_FONT.render("Press r to restart ", 1, (0, 0, 0))
