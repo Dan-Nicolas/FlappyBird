@@ -1,0 +1,27 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#691a5c",
+        "activityBar.background": "#691a5c",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#708020",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#691a5c",
+        "statusBar.background": "#401038",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#691a5c",
+        "statusBarItem.remoteBackground": "#401038",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#401038",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#40103899",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#401038",
+    "cSpell.words": [
+        "blit",
+        "pygame",
+        "topleft"
+    ]
+}
